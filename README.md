@@ -153,5 +153,3 @@ ShortUrl -> Url
 shorty1 -> http://example1.com
 shorty2 -> http://example2.com
 ```
-
-This README provides a comprehensive guide for using the URL Shortener CLI to interact with the [URL Shortener API](https://github.com/wsscottca/url-shortener) effectively.
