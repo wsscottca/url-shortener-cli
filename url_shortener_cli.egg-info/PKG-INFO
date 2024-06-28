@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: url-shortener-cli
+Version: 1.0
+Summary: Command Line Interface for FastAPI URL shortener
+Author: wsscottca
+Requires-Dist: pydantic>=2.6.2
+Requires-Dist: click>=8.1.7
+Requires-Dist: requests>=2.31.0
+Requires-Dist: responses>=0.25.0
+Requires-Dist: python-dotenv>=1.0.1

@@ -1,0 +1,10 @@
+graft app
+
+# Exclude unnecessary generated files
+global-exclude *~ *.py[cod] *.so
+
+# Include .env file
+recursive-include app *.env
+
+# Include the tests directory and its contents
+graft app/tests
